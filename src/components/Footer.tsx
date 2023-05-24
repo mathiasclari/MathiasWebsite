@@ -9,7 +9,6 @@ export default function WebFooter() {
                 <ul>
                     <li>
                         <a href="https://twitter.com/matonsocials">Twitter</a>
-                        <a href="https://www.instagram.com/matonsocial/">Instagram</a>
                     </li>
                 </ul>
             </div>
