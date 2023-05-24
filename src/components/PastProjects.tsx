@@ -11,7 +11,7 @@ export default function PastProjects() {
             <div className="projects-card">
                 <div className="projects-card-content">
                     <h2>Work Experience</h2>
-                    <p>Here are some of the projects I ussed to work or contribute at</p>
+                    <p>Here are some of the projects I used to work on or contribute at</p>
                     </div>
                     <div className="projects-display">
                         <h2>Projects</h2>
