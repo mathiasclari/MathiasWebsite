@@ -38,7 +38,7 @@ export default function AboutInfo() {
             <li className={skillLevels[5]}>Next.js</li>
             <li className={skillLevels[6]}>Vite.js</li>
             <li className={skillLevels[7]}>SQL</li>
-            <li className={skillLevels[8]}>MariaDB</li>
+            <li className={skillLevels[8]}>NestJS</li>
             <li className={skillLevels[9]}>CSS</li>
             <li className={skillLevels[10]}>HTML</li>
             <li className={skillLevels[11]}>PHP</li>
