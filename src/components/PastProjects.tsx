@@ -34,7 +34,7 @@ export default function PastProjects() {
                                 <li>
                                     <img src={jeracraft} alt="Mathias Clari Drenik" />
                                     <h4>JeraCraft </h4>
-                                    <p>Owner</p>
+                                    <p>Developer </p>
                                 </li>
                                 <li>
                                     <img src={rabbitcompany} alt="Mathias Clari Drenik" />
