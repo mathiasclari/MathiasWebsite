@@ -101,10 +101,30 @@ body {
   margin: 5px;
   padding: 5px;
   border: 1px solid #ffffff;
-  background-color: #059e6b;
+  text-shadow: #0f131b 0px 0px 10px;
   border-radius: 7.5px;
   transition: all 0.3s ease-in-out;
+  width: 150px;
+  height: 150px;
 }
+
+.lvl1{
+  background-color: #0E4429;
+}
+
+.lvl2 {
+  background-color: #006D32;
+}
+
+.lvl3 {
+  background-color: #26A641;
+}
+
+.lvl4 {
+  background-color: #39D353;
+}
+
+
 
 .skill-display ul li:hover {
   background-color: #15805c;
@@ -152,7 +172,7 @@ body {
 .projects-card-content p {
   font-size: 20px;
   font-weight: 400;
-  margin-bottom: 15px;
+  margin-bottom: 25px;
 }
 
 .projects-display{
@@ -176,12 +196,40 @@ body {
   font-size: 20px;
   font-weight: 400;
   margin: 5px;
+  width: 250px;
   padding: 5px;
   border: 1px solid #ffffff;
   background-color: #131c27;
   border-radius: 10%;
   transition: all 0.3s ease-in-out;
 }
+
+.projects-display ul li h2{
+  font-size: 20px;
+  font-weight: 600;
+  margin-bottom: 15px;
+}
+
+.projects-display ul li p{
+  font-size: 15px;
+  font-weight: 400;
+  margin-bottom: 15px;
+}
+
+.projects-display ul li img{
+  width: auto;
+  height: 125px;
+  margin-left: 5px;
+  margin-right: 5px;
+  margin-top: 5px;
+  border-radius: 25%;
+  margin-bottom: 15px;
+  object-fit: cover;
+  object-position: center;
+  transition: transform 0.3s ease-in-out;
+}
+
+
 
 .projects-display ul li:hover {
   background-color: #3d9c7877;
@@ -190,16 +238,6 @@ body {
   cursor: pointer;
   scale: 1.01;
   transition: all 0.3s ease-in-out;
-}
-
-.projects-display ul li img{
-  width: auto;
-  height: 225px;
-  border-radius: 25%;
-  margin-bottom: 15px;
-  object-fit: cover;
-  object-position: center;
-  transition: transform 0.3s ease-in-out;
 }
 
 .footer {

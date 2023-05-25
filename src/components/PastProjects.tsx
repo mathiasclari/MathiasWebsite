@@ -24,7 +24,7 @@ export default function PastProjects() {
                                 <li>
                                     <img src={techscode} alt="Mathias Clari Drenik" />
                                     <h4>TechsCode</h4>
-                                    <p>Community Manager</p>
+                                    <p>Community</p>
                                 </li>
                                 <li>
                                     <img src={cosmetica} alt="Mathias Clari Drenik" />
