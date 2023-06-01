@@ -6,6 +6,7 @@ import pipebomb from '../assets/pipebomb.svg';
 import possiest from '../assets/possiest.svg';
 import skypiea from '../assets/skyPieaMC.svg';
 import skykingdoms from '../assets/skykingdoms.svg';
+import ghub from '../assets/ghub.svg';
 
 export default function Projects() {
 
@@ -54,6 +55,12 @@ export default function Projects() {
                                     <img src={skykingdoms} alt="Mathias Clari Drenik" />
                                     <h4>SkyKingdoms</h4>
                                     <p>Developer</p>
+                        
+                                </li>
+                                <li>
+                                    <img src={ghub} alt="Mathias Clari Drenik" />
+                                    <h4>GamerHubSi</h4>
+                                    <p>Administration</p>
                         
                                 </li>
                                 </ul>
